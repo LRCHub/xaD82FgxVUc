@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "夏に去りし君を想フ",
+  "base_artist": "影縫 英",
+  "createdAt": "2025-12-19T11:17:05.360087Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "夏に去りし君を想フ",
+      "artist": "影縫 英",
+      "has_synced": false,
+      "path": "select/pl_01_夏に去りし君を想フ_影縫_英.txt"
+    }
+  ]
+}
